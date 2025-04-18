@@ -1,6 +1,6 @@
 # NUVEM
 
-OMPUTAÇÃO EM NUVEM
+COMPUTAÇÃO EM NUVEM
 
 A computação em nucem pode ser conceituada como uma estrutura que o fornece recursos computacionais para as organizações. Os serviços de tecnologia, tais como, aramzenamento de dados, aplicativos dentre outros eram encontrados nos data centers criados na propria empresa. Com o aumento de competitividade entre as organizações, a necessidade de baixar os cutos se tornou necessária e um caminho encontrado foi a Nuvem. Nela as empresas acessam seus serviços sem a necessidade de contrução de um data center local. 
 
